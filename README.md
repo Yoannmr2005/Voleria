@@ -37,8 +37,9 @@
     - pics qui font du dégât
     - pièges
   - Compagnons (animaux)
-    - aide dans un niveau
-  - Liane pour s'accrocher
+    - aide le joueur dans un niveau
+    - Control de l'animal par le joueur
+    - capacité propre à l'animal  - Liane pour s'accrocher
   - Element pour rebondir
   - Zone de vent qui pousse
   - Zone d'eau empoisonnée
